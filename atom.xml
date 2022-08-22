@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shuyan-blog.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-08-22T07:47:59.544Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shuyan-blog.github.io"/>
+    <link rel="self" href="https://shuyan-blog.github.io/atom.xml"/>
+    <subtitle>郭书岩的小博客</subtitle>
+    <logo>https://shuyan-blog.github.io/images/avatar.png</logo>
+    <icon>https://shuyan-blog.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[LineRider 的一个垃圾作品]]></title>
+        <id>https://shuyan-blog.github.io/post/linerider-junk-works/</id>
+        <link href="https://shuyan-blog.github.io/post/linerider-junk-works/">
+        </link>
+        <updated>2022-08-20T16:59:23.000Z</updated>
+        <content type="html"><![CDATA[<p>下载地址：https://wwz.lanzouv.com/iAGOm09xen2h</p>
+]]></content>
+    </entry>
+</feed>
